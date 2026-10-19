@@ -22,3 +22,7 @@
 *.xml
 *.zs-old
 .direnv/
+
+# Claude Code local instructions
+CLAUDE.md
+claude.md
